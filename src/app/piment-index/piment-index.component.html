@@ -1,0 +1,16 @@
+<div class="row">
+    <div class="card col-sm-4 mb-3" *ngFor="let piment of piments;">
+        <img src="{{piment.photo}}" style="height: 150px;" class="card-img-top " alt="... ">
+        <div class="card-body ">
+            <h5 class="card-title ">{{piment.designation}}</h5>
+            <p class="card-text ">{{piment.description}}</p>
+            <p class="card-text text-danger ">
+                <strong>
+                    {{piment.prix}} FCFA
+                </strong>
+            </p>
+            <a routerLink="/piment-details" class="btn btn-primary ">Details</a>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,81 @@
+[{
+        "reference": 123,
+        "designation": "piment rouge",
+        "description": "sa chauffe moins que les autres",
+        "prix": 25,
+        "grammage": 10,
+        "photo": "assets/images/piment.jpg"
+    },
+    {
+        "reference": 124,
+        "designation": "piment vert",
+        "description": "sa ne chauffe pas que les autres",
+        "prix": 25,
+        "grammage": 15,
+        "photo": "assets/images/pimenterie.photo.jpg"
+    },
+    {
+        "reference": 125,
+        "designation": "piment jaune",
+        "description": "sa chauffe plus que les autres",
+        "prix": 25,
+        "grammage": 20,
+        "photo": "assets/images/pimenterie.photo.pgn.jpg"
+    },
+    {
+        "reference": 126,
+        "designation": "piment mouillé",
+        "description": "sa chauffe gravement que les autres",
+        "prix": 25,
+        "grammage": 25,
+        "photo": "assets/images/piment.jpg"
+    },
+    {
+        "reference": 127,
+        "designation": "piment sec",
+        "description": "sa chauffe les mains que les autres",
+        "prix": 25,
+        "grammage": 25,
+        "photo": "assets/images/pimenterie.photo.jpg"
+    },
+    {
+        "reference": 128,
+        "designation": "piment noir",
+        "description": "sa chasse les mauvais esprits",
+        "prix": 25,
+        "grammage": 10,
+        "photo": "assets/images/pimenterie.photo.pgn.jpg"
+    },
+    {
+        "reference": 129,
+        "designation": "piment gris",
+        "description": "sa facilite la bonne digestion",
+        "prix": 50,
+        "grammage": 25,
+        "photo": "assets/images/piment.jpg"
+    },
+    {
+        "reference": 130,
+        "designation": "piment rose",
+        "description": "sa chauffe gravement que les autres",
+        "prix": 25,
+        "grammage": 25,
+        "photo": "assets/images/pimenterie.photo.jpg"
+    },
+    {
+        "reference": 131,
+        "designation": "piment bleu",
+        "description": "sa chauffe gravement que les autres",
+        "prix": 25,
+        "grammage": 20,
+        "photo": "assets/images/piment.jpg"
+    },
+    {
+        "reference": 132,
+        "designation": "piment mouillé",
+        "description": "sa pique que les autres",
+        "prix": 25,
+        "grammage": 20,
+        "photo": "assets/images/pimenterie.photo.jpg"
+    }
+]
